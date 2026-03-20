@@ -50,7 +50,7 @@ The application predicts whether a movie review is **Positive 😊** or **Negati
 ```
 AI-Sentiment-Studio/
 │
-├── app.py
+├── App.py
 ├── model.pkl
 ├── vectorizer.pkl
 ├── Review_sentiment.ipynb
